@@ -17,3 +17,5 @@ I'm Elvis from Ghana, a software engineer with expertise in React, Vue, and Lara
 Let's collaborate and create amazing things together! 🌟
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaappiah)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaappiah&show_icons=true)
