@@ -4,7 +4,7 @@ I'm Elvis from Ghana, a software engineer with expertise in React, Vue, and Lara
 
 ## What I Do
 
-- 🚀 I create web applications using modern front-end frameworks like React and Vue.
+- 🚀 I create web applications using modern front-end frameworks like <img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" /> React and Vue.
 - 🌐 I build robust back-end systems with Laravel, ensuring seamless data flow and security.
 - 💡  I am always thinking about code, and passionate about creating a community within the tech space.
 - 🌐 I'm also fascinated by computer networking and enjoy learning about protocols, routing, and network security.
