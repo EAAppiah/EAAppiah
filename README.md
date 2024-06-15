@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Elvis from Ghana, a software engineer with expertise in React, Vue, and Laravel. I thrive on building elegant solutions to complex problems and enjoy diving deep into JavaScript and PHP.
+I'm Elvis, a software engineer with expertise in React, Vue, and Laravel. I thrive on building elegant solutions to complex problems and enjoy diving deep into JavaScript and PHP.
 
 ## What I Do
 
