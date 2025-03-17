@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Elvis, a software engineer with expertise in React, Vue, and Laravel. I thrive on building elegant solutions to complex problems and enjoy diving deep into JavaScript and PHP.
+I'm Elvis, Hey there! I enjoy converting ideas into real-life products and building solutions that run on the Internet I am a dedicated and enthusiastic professional with a strong software and network engineering background. My expertise spans designing, implementing, and managing computer networks, software development, and system optimization.
 
 ## What I Do
 
