@@ -11,7 +11,7 @@ I'm Elvis, Hey there! I enjoy converting ideas into real-life products and build
 
 ## Connect with Me
 
-- 📫 Feel free to reach out on LinkedIn at https://www.linkedin.com/in/ek-appiah or Twitter at https://x.com/dev_kage.
+- 📫 Feel free to reach out on LinkedIn at https://www.linkedin.com/in/ek-appiah
 - 🌐 Check out my portfolio website: https://elvisappiah.vercel.app.
 
 Let's collaborate and create amazing things together! 🌟
